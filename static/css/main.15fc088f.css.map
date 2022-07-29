@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.15fc088f.css","mappings":"AAUA,gBAGE,WAAY,CAFZ,QAAS,CACT,SAAU,CAEV,UACF","sources":["WeatherApp.css"],"sourcesContent":["\r\nhtml,\r\nbody {\r\n  margin: 0;\r\n  padding: 0;\r\n  height: 100%;\r\n  width: 100%;\r\n\r\n}\r\n\r\n#root {\r\n  margin: 0;\r\n  padding: 0;\r\n  height: 100%;\r\n  width: 100%;\r\n}\r\n"],"names":[],"sourceRoot":""}
